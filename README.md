@@ -66,13 +66,14 @@ Khairunnisa Athani
 
 Computer Science and Engineering Student
 
+
 ## Output
 
 ### Add Task
-![add ](output/add.png)
+![Add Task](output/add.png)
 
 ### Pending Task
-![pendingtask](output/pendingtask.png)
+![Pending Task](output/pendingtask.png)
 
 ### Completed Task
-![completetask](output/completetask.png)
+![Completed Task](output/completetask.png)
