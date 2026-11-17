@@ -68,10 +68,10 @@ Computer Science and Engineering Student
 ## Output Screenshots
 
 ### Add Task
-![Add Task](output/add.png)
+![Add Task](./output/add.png)
 
 ### Pending Task
-![Pending Task](output/pendingtask.png)
+![Pending Task](./output/pendingtask.png)
 
 ### Completed Task
-![Completed Task](output/completetask.png)
+![Completed Task](./output/completetask.png)
