@@ -65,9 +65,7 @@ Author
 Khairunnisa Athani
 
 Computer Science and Engineering Student
-
-
-## Output
+## Output Screenshots
 
 ### Add Task
 ![Add Task](output/add.png)
